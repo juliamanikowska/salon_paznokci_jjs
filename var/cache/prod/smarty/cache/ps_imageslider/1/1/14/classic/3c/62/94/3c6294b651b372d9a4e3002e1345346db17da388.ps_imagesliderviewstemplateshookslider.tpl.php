@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-03-26 10:31:05
+/* Smarty version 4.3.4, created on 2025-03-27 12:58:52
   from 'module:ps_imagesliderviewstemplateshookslider.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_67e3c9599735c6_30011751',
+  'unifunc' => 'content_67e53d7c2e21a5_62595768',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,7 +18,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_67e3c9599735c6_30011751 (Smarty_Internal_Template $_smarty_tpl) {
+function content_67e53d7c2e21a5_62595768 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
   <div id="carousel" data-ride="carousel" class="carousel slide" data-interval="5000" data-wrap="true" data-pause="hover" data-touch="true">
     <ol class="carousel-indicators">
@@ -28,15 +28,15 @@ function content_67e3c9599735c6_30011751 (Smarty_Internal_Template $_smarty_tpl)
           </ol>
     <ul class="carousel-inner" role="listbox" aria-label="Pokaz slajdów">
               <li class="carousel-item active" role="option" aria-hidden="false">
-          <a href="https://www.prestashop-project.org">            <figure>
-              <img src="http://localhost/salon_paznokci_jjs/modules/ps_imageslider/images/sample-1.jpg" alt="sample-1" loading="lazy" width="1110" height="340">
+                      <figure>
+              <img src="http://localhost/salon_paznokci_jjs/modules/ps_imageslider/images/253418d910b48dca636f962f087ae0e935621545_logo_salon_paznokci.png" alt="Salon paznokci JJ&#039;s" loading="lazy" width="1110" height="340">
                               <figcaption class="caption">
-                  <h2 class="display-1 text-uppercase">Sample 1</h2>
-                  <div class="caption-description"><h3>EXCEPTEUR OCCAECAT</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p></div>
+                  <h2 class="display-1 text-uppercase">Salon Paznokci JJ&#039;s laureatem!</h2>
+                  <div class="caption-description"><h3>Najlepszy salon paznokci w Poznaniu według rankingu Reksia 2025.</h3>
+<p></p></div>
                 </figcaption>
                           </figure>
-          </a>        </li>
+                  </li>
               <li class="carousel-item " role="option" aria-hidden="true">
           <a href="https://www.prestashop-project.org">            <figure>
               <img src="http://localhost/salon_paznokci_jjs/modules/ps_imageslider/images/sample-2.jpg" alt="sample-2" loading="lazy" width="1110" height="340">
