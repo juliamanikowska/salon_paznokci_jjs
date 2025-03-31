@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-03-26 10:29:59
+/* Smarty version 4.3.4, created on 2025-03-31 12:37:05
   from 'C:\xampp\htdocs\salon_paznokci_jjs\themes\javascript.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_67e3c9179059a5_11487953',
+  'unifunc' => 'content_67ea70512508d3_04634576',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_67e3c9179059a5_11487953 (Smarty_Internal_Template $_smarty_tpl) {
+function content_67ea70512508d3_04634576 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\xampp\\htdocs\\salon_paznokci_jjs\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.count.php','function'=>'smarty_modifier_count',),));
 if ((isset($_smarty_tpl->tpl_vars['js_def']->value)) && is_array($_smarty_tpl->tpl_vars['js_def']->value) && smarty_modifier_count($_smarty_tpl->tpl_vars['js_def']->value)) {
 echo '<script'; ?>

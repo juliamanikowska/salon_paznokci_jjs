@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-03-26 10:29:59
+/* Smarty version 4.3.4, created on 2025-03-31 12:37:05
   from 'C:\xampp\htdocs\salon_paznokci_jjs\admin1\themes\new-theme\public\preload.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_67e3c9178eb6a3_54372449',
+  'unifunc' => 'content_67ea7051200701_80232004',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_67e3c9178eb6a3_54372449 (Smarty_Internal_Template $_smarty_tpl) {
+function content_67ea7051200701_80232004 (Smarty_Internal_Template $_smarty_tpl) {
 ?><link
       rel="preload"
       href="<?php echo $_smarty_tpl->tpl_vars['admin_dir']->value;?>
