@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Svix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.24.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.24.0+769060f593fae9582fff27bd25ed8f2278952074")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.24.0+041db47922b81462c21ee110c7d620ab80b05566")]
 [assembly: System.Reflection.AssemblyProductAttribute("Svix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Svix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.24.0.0")]
