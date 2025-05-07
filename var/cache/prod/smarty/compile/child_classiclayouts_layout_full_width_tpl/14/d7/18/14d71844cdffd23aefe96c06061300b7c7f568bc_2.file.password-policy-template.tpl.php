@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-03-31 12:37:19
+/* Smarty version 4.3.4, created on 2025-05-07 09:15:31
   from 'C:\xampp\htdocs\salon_paznokci_jjs\themes\classic\templates\_partials\password-policy-template.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_67ea705f373fc3_44773986',
+  'unifunc' => 'content_681b08936d4272_77916870',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_67ea705f373fc3_44773986 (Smarty_Internal_Template $_smarty_tpl) {
+function content_681b08936d4272_77916870 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 
 <template id="password-feedback">

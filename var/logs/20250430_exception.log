@@ -1,0 +1,2 @@
+*ERROR* 	v8.2.0	2025/04/30 - 09:51:27: Link to database cannot be established: SQLSTATE[HY000] [2006] MySQL server has gone away at line 121 in file classes/db/DbPDO.php
+*ERROR* 	v8.2.0	2025/04/30 - 09:51:44: Link to database cannot be established: SQLSTATE[HY000] [2002] Nie można nawiązać połączenia, ponieważ komputer docelowy aktywnie go odmawia at line 121 in file classes/db/DbPDO.php

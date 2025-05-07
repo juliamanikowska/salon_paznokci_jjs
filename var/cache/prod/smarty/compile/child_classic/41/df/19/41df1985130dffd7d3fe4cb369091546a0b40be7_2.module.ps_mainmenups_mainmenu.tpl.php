@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-03-31 12:37:18
+/* Smarty version 4.3.4, created on 2025-05-07 09:15:31
   from 'module:ps_mainmenups_mainmenu.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_67ea705ec6d6a1_11096869',
+  'unifunc' => 'content_681b0893451c27_18267272',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,13 +20,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_67ea705ec6d6a1_11096869 (Smarty_Internal_Template $_smarty_tpl) {
+function content_681b0893451c27_18267272 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
   'menu' => 
   array (
     'compiled_filepath' => 'C:\\xampp\\htdocs\\salon_paznokci_jjs\\var\\cache\\prod\\smarty\\compile\\child_classic\\41\\df\\19\\41df1985130dffd7d3fe4cb369091546a0b40be7_2.module.ps_mainmenups_mainmenu.tpl.php',
     'uid' => '41df1985130dffd7d3fe4cb369091546a0b40be7',
-    'call_name' => 'smarty_template_function_menu_156978134867ea705ec50450_77808269',
+    'call_name' => 'smarty_template_function_menu_2011823737681b08934471c0_16994815',
   ),
 ));
 $_smarty_tpl->_assignInScope('_counter', 0);?>
@@ -38,9 +38,9 @@ $_smarty_tpl->_assignInScope('_counter', 0);?>
     <div class="clearfix"></div>
 </div>
 <?php }
-/* smarty_template_function_menu_156978134867ea705ec50450_77808269 */
-if (!function_exists('smarty_template_function_menu_156978134867ea705ec50450_77808269')) {
-function smarty_template_function_menu_156978134867ea705ec50450_77808269(Smarty_Internal_Template $_smarty_tpl,$params) {
+/* smarty_template_function_menu_2011823737681b08934471c0_16994815 */
+if (!function_exists('smarty_template_function_menu_2011823737681b08934471c0_16994815')) {
+function smarty_template_function_menu_2011823737681b08934471c0_16994815(Smarty_Internal_Template $_smarty_tpl,$params) {
 $params = array_merge(array('nodes'=>array(),'depth'=>0,'parent'=>null), $params);
 foreach ($params as $key => $value) {
 $_smarty_tpl->tpl_vars[$key] = new Smarty_Variable($value, $_smarty_tpl->isRenderingCache);
@@ -96,5 +96,5 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
       </ul>
     <?php }
 }}
-/*/ smarty_template_function_menu_156978134867ea705ec50450_77808269 */
+/*/ smarty_template_function_menu_2011823737681b08934471c0_16994815 */
 }

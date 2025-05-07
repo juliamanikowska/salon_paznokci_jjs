@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-03-31 12:37:04
+/* Smarty version 4.3.4, created on 2025-05-07 09:15:28
   from 'C:\xampp\htdocs\salon_paznokci_jjs\modules\psxdesign\views\templates\hook\displayModuleTag.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_67ea7050cba419_30107586',
+  'unifunc' => 'content_681b08902b5028_14024258',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_67ea7050cba419_30107586 (Smarty_Internal_Template $_smarty_tpl) {
+function content_681b08902b5028_14024258 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
  type="module" src="<?php echo call_user_func_array($_smarty_tpl->registered_plugins[ 'modifier' ][ 'escape' ][ 0 ], array( $_smarty_tpl->tpl_vars['src']->value,'htmlall','UTF-8' ));?>
 "><?php echo '</script'; ?>
