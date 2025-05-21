@@ -1,0 +1,1 @@
+*ERROR* 	v8.2.0	2025/05/20 - 15:13:24: Link to database cannot be established: SQLSTATE[HY000] [2002] Nie można nawiązać połączenia, ponieważ komputer docelowy aktywnie go odmawia at line 121 in file classes/db/DbPDO.php

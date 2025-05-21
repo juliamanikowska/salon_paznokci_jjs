@@ -185,6 +185,16 @@ $catalogue = new MessageCatalogue('pl-PL', array (
     'Color' => 'Color',
     'text' => 'text',
   ),
+  'ModulesCashondeliveryShop' => 
+  array (
+    'You pay for the merchandise upon delivery' => 'Płacisz za zabieg w salonie.',
+    'Your order will be sent very soon.' => 'Przygotuj się na zabieg.',
+    'Pay by Cash on Delivery' => 'Zapłać w salonie.',
+    'You have chosen the cash on delivery method.' => 'Wybrałeś/łaś płatność w salonie jako metodę płatności.',
+    'Your order on %s is complete.' => 'Twoje zamówienie na %s jest gotowe.',
+    'For any questions or for further information, please contact our' => 'W przypadku jakichkolwiek pytań lub dalszych informacji, skontaktuj się z naszą',
+    'customer support' => 'obsługą klienta',
+  ),
   'ModulesPsxdesignAlertnewmoduleavailable' => 
   array (
     'We have improved the Design section of your back office' => 'We have improved the Design section of your back office',
@@ -6616,16 +6626,6 @@ Dziękujemy za cierpliwość.',
   array (
     'Cash on delivery (COD)' => 'Płatność przy odbiorze',
     'Accept cash payments on delivery to make it easy for customers to purchase on your store.' => 'Akceptuj płatności gotówką przy odbiorze, aby ułatwić klientom zakupy w Twoim sklepie.',
-  ),
-  'ModulesCashondeliveryShop' => 
-  array (
-    'Pay by Cash on Delivery' => 'Zapłać gotówką przy odbiorze',
-    'Your order on %s is complete.' => 'Twoje zamówienie na %s jest gotowe.',
-    'You have chosen the cash on delivery method.' => 'Wybrałeś płatność przy odbiorze jako metodę płatności.',
-    'Your order will be sent very soon.' => 'Twoje zamówienie zostanie wkrótce wysłane.',
-    'For any questions or for further information, please contact our' => 'W przypadku jakichkolwiek pytań lub dalszych informacji, skontaktuj się z naszą',
-    'customer support' => 'obsługą klienta',
-    'You pay for the merchandise upon delivery' => 'Płacisz za towar przy dostawie',
   ),
   'ModulesCategoryproductsAdmin' => 
   array (

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-05-07 09:15:28
+/* Smarty version 4.3.4, created on 2025-05-20 16:19:43
   from 'C:\xampp\htdocs\salon_paznokci_jjs\admin1\themes\new-theme\template\header.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_681b089041e5a6_06678046',
+  'unifunc' => 'content_682c8f7fc4d6c7_59414939',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_681b089041e5a6_06678046 (Smarty_Internal_Template $_smarty_tpl) {
+function content_682c8f7fc4d6c7_59414939 (Smarty_Internal_Template $_smarty_tpl) {
 ?><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=<?php echo (isset($_smarty_tpl->tpl_vars['viewport_scale']->value)) ? $_smarty_tpl->tpl_vars['viewport_scale']->value : '1';?>
 ">
