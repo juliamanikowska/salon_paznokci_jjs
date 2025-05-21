@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-05-20 16:19:43
+/* Smarty version 4.3.4, created on 2025-05-21 09:08:57
   from 'C:\xampp\htdocs\salon_paznokci_jjs\admin1\themes\new-theme\template\components\layout\information_messages.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_682c8f7fdd00d4_99161787',
+  'unifunc' => 'content_682d7c09b0f7b6_63425516',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_682c8f7fdd00d4_99161787 (Smarty_Internal_Template $_smarty_tpl) {
+function content_682d7c09b0f7b6_63425516 (Smarty_Internal_Template $_smarty_tpl) {
 if ((isset($_smarty_tpl->tpl_vars['informations']->value)) && count($_smarty_tpl->tpl_vars['informations']->value) && $_smarty_tpl->tpl_vars['informations']->value) {?>
   <div class="bootstrap">
     <div class="alert alert-info">

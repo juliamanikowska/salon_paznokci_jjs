@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-05-20 16:19:43
+/* Smarty version 4.3.4, created on 2025-05-21 09:08:57
   from 'C:\xampp\htdocs\salon_paznokci_jjs\admin1\themes\new-theme\template\layout.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_682c8f7fcb74e4_63602502',
+  'unifunc' => 'content_682d7c0992cff4_62632561',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -34,7 +34,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:error.tpl' => 1,
   ),
 ),false)) {
-function content_682c8f7fcb74e4_63602502 (Smarty_Internal_Template $_smarty_tpl) {
+function content_682d7c0992cff4_62632561 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!DOCTYPE html>
 <html lang="<?php echo $_smarty_tpl->tpl_vars['iso']->value;?>
 ">

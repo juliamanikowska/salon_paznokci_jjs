@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-05-20 16:19:43
+/* Smarty version 4.3.4, created on 2025-05-21 09:08:57
   from 'C:\xampp\htdocs\salon_paznokci_jjs\modules\ps_faviconnotificationbo\views\templates\hook\displayBackOfficeHeader.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_682c8f7fa61284_55721403',
+  'unifunc' => 'content_682d7c096ed149_05595329',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_682c8f7fa61284_55721403 (Smarty_Internal_Template $_smarty_tpl) {
+function content_682d7c096ed149_05595329 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
 >
   if (undefined !== ps_faviconnotificationbo) {
